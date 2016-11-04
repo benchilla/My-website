@@ -22,7 +22,7 @@ float:right;
   color:#365a63;
 }
 #moon{
-  position:fixed;
+  position:relative;
   bottom:500;
   right:600;
   float:left;
