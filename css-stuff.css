@@ -23,8 +23,8 @@ float:right;
 }
 #moon{
   position:fixed;
-  bottom:650;
-  right:700;
+  bottom:850;
+  right:1000;
   float:left;
   width:100;
     height:100;
