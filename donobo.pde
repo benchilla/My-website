@@ -91,7 +91,7 @@
       opening = random(600)+100;
      }
      void drawPillar(){
-       shape(bear,xPos,0,xPos,0);  
+       line(xPos,0,xPos,opening-100);  
        line(xPos,opening+100,xPos,800);
      }
      void checkPosition(){
