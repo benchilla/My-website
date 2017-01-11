@@ -9,6 +9,7 @@
     http://processingjs.org
 
 ***/
+/* @pjs preload="Please help robee.svg","scarebear.svg"; */
 
 (function(window, document, Math, undef) {
   var nop = function() {};
