@@ -1,4 +1,5 @@
 //Flappy Code
+/* @pjs preload="Please help robee.svg","scarebear.svg"; */
     PShape bot;
     PShape bear;
     bird b = new bird();
